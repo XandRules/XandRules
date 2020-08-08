@@ -27,9 +27,21 @@
 I am a final student of the Bachelor of Information Systems 🎓 from the Higher Education Center in Management, Technology and Education 🏛. I am a passionate student who is always willing to learn and work in various technologies and fields 💡. I love exploring new technologies and using them to solve real life problems ✨💻. I am currently working on Web Development 🕸️🤓.
 
 <br />
+## Languages and tools:
+<p align="left">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+</p>
+<br />
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=xandrules&show_icons=true" /></p>
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{xandrules}/count.svg)
 
-Inspired by the profile of: (https://github.com/syedareehaquasar)
+## README.md inspiration
+<a href="https://github.com/syedareehaquasar"><img src = "https://img.shields.io/github/followers/syedareehaquasar?label=syedareehaquasar&style=social"></a>&nbsp; &nbsp;
+<a href="https://github.com/mateusjbarbosa"><img src = "https://img.shields.io/github/followers/mateusjbarbosa?label=mateusjbarbosa&style=social"></a>&nbsp; &nbsp;
+
