@@ -31,3 +31,5 @@ I am a final student of the Bachelor of Information Systems 🎓 from the Higher
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{xandrules}/count.svg)
+
+Inspired by the profile of: (https://github.com/syedareehaquasar)
