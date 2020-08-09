@@ -24,7 +24,7 @@
 <br />
 
 ### Glad to see you here! 🤩 &nbsp;
-I am a final student of the Bachelor of Information Systems 🎓 from the Higher Education Center in Management, Technology and Education 🏛. I am a passionate student who is always willing to learn and work in various technologies and fields 💡. I love exploring new technologies and using them to solve real life problems ✨💻. I am currently working on Web Development 🕸️🤓.
+I am a final student of the Bachelor of Information Systems 🎓 from the Centro de Educação em Gestão, Tecnologia e Educação - FAI 🏛. I am a passionate student who is always willing to learn and work in various technologies and fields 💡. I love exploring new technologies and using them to solve real life problems ✨💻. I am currently working on Web Development 🕸️🤓.
 
 <br />
 <h3> Languages and tools: 🤩 &nbsp;</h3>
