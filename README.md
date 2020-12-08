@@ -1,47 +1,32 @@
+<img align="left" width="332" height="480" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/source.gif">
 
-## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
-<br />
-<a href="https://twitter.com/_Alexandre58">
-  <img align="left" alt="Alexandre's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/alexandre-ribeiro-b975b0127/">
-  <img align="left" alt="Alexandre's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/xandrules">
-  <img align="left" alt="Alexandre's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://msng.link/o/?Xandrules=tg">
-  <img align="left" alt="Alexandre's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/xandrule/">
-  <img align="left" alt="Alexandre's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100025020803221">
-  <img align="left" alt="Alexandre's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
-<br />
+[![Linkedin Badge](https://img.shields.io/badge/Alexandre%20Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-ribeiro-b975b0127/)](https://www.linkedin.com/in/alexandre-ribeiro-b975b0127/) 
+[![Gmail Badge](https://img.shields.io/badge/-alexandresilva58@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandresilva58@gmail.com)](mailto:alexandresilva58@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-XandRules%238462-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/)](https://discord.com/)
 
-### Glad to see you here! 🤩 &nbsp;
-I am a final student of the Bachelor of Information Systems 🎓 from the Centro de Educação em Gestão, Tecnologia e Educação - FAI 🏛. I am a passionate student who is always willing to learn and work in various technologies and fields 💡. I love exploring new technologies and using them to solve real life problems ✨💻. I am currently working on Web Development 🕸️🤓.
-
-<br />
-<h3> Languages and tools: 🤩 &nbsp;</h3>
-<p align="center">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/web.svg" alt="npm" style="vertical-align:top; margin:4px">
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
 </p>
-<br />
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=xandrules&show_icons=true" /></p>
+
+## Hello World 👋
+
+<br/>:rocket:  &nbsp; I am working at [**Hitachi Kokusai**](http://hitachi.com.br/).
+<br/>:blush: &nbsp; I'm focused on React and NodeJS.
+<br/>:computer: &nbsp; My stack: ReactJS, Node.js & Typescript
+<br/>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=xandrules&show_icons=true&count_private=true" alt="xandrules" /> </p>
+<br/>
+<br/>
+
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{xandrules}/count.svg)
-
-## README.md inspiration
-<a href="https://github.com/syedareehaquasar"><img src = "https://img.shields.io/github/followers/syedareehaquasar?label=syedareehaquasar&style=social"></a>&nbsp; &nbsp;
-<a href="https://github.com/mateusjbarbosa"><img src = "https://img.shields.io/github/followers/mateusjbarbosa?label=mateusjbarbosa&style=social"></a>&nbsp; &nbsp;
 
