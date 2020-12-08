@@ -22,7 +22,7 @@
 <br/>:blush: &nbsp; I'm focused on React and NodeJS.
 <br/>:computer: &nbsp; My stack: ReactJS, Node.js & Typescript
 <br/>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=xandrules&show_icons=true&count_private=true" alt="xandrules" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=xandrules&show_icons=true&count_private=true" alt="xandrules" /> </p>
 <br/>
 <br/>
 
