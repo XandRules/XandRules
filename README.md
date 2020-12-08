@@ -27,6 +27,3 @@
 <br/>
 
 
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{xandrules}/count.svg)
-
