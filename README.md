@@ -1,8 +1,8 @@
 ## Hello, I’m Alexandre Ribeiro 🤙
 
-I am a FrontEnd, currently working at @Procob focused on JavaScript and its entire ecosystem using the main technologies of the market. Serving several clients around the world. 
+I am a FrontEnd, currently working at @Procob focused on JavaScript and its entire ecosystem using the main technologies of the market.
 
-```js
+```j
 const importantLinks = {
    📒 Linkedin: 'https://www.linkedin.com/in/alexandre-ribeiro-b975b0127/', 
    👋 Email: 'alexandresilva58@gmail.com',
