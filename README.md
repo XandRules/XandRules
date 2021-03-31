@@ -1,6 +1,6 @@
 ## Hello, I’m Alexandre Ribeiro 🤙
 
-I am a FrontEnd, currently working at @Procob focused on JavaScript and its entire ecosystem using the main technologies of the market.
+I am a FrontEnd, currently working at @Procob focused on Angular and its entire ecosystem using the main technologies of the market.
 
 ```j
 const importantLinks = {
