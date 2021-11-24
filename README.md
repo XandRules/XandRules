@@ -4,7 +4,7 @@ I am a FrontEnd, currently working at @GFT focused on Angular and its entire eco
 
 ```j
 const importantLinks = {
-   📒 Linkedin: 'https://www.linkedin.com/in/alexandre-ribeiro-b975b0127/', 
+   📒 Linkedin: 'https://www.linkedin.com/in/alexandre-ribeiro-frontend/', 
    👋 Email: 'alexandresilva58@gmail.com',
 }
 ```
